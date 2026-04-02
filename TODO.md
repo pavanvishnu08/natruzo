@@ -1,1 +1,8 @@
-# Vercel Deployment Steps\n\n- [x] Create vercel.json\n- [x] Update .gitignore\n- [ ] Test build: npm run build\n- [ ] Commit/push\n- [ ] Deploy on Vercel dashboard (connect repo, add GEMINI_API_KEY)\n- [ ] Complete gh auth login
+# Vercel Deployment Steps
+
+- [x] Create vercel.json
+- [x] Update .gitignore
+- [x] Test build: npm run build
+- [x] Commit/push
+- [ ] Deploy on Vercel dashboard (connect repo, add GEMINI_API_KEY)
+- [ ] Complete gh auth login
