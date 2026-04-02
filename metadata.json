@@ -1,0 +1,8 @@
+{
+  "name": "Nutrazo",
+  "description": "AI-powered nutrition and diet planning assistant using vision recognition and USDA data.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
